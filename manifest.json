@@ -1,7 +1,7 @@
 {
     "manifest_version" : 2,
     "name" : "QuickAccess",
-    "version" : "1.1.0",
+    "version" : "2.0.0",
     "description" : "A basic Chrome extension that will keep all my links at one place, and to block out a spam agency's content on the web.",
     "icons": { 
           "96": "surf.png" },
