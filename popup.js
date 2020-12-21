@@ -1,5 +1,13 @@
 replaceData(document.body);
-
+const btn = document.getElementById("modeselector");
+        
+ btn.addEventListener("click", function(){
+            const ele = document.body;
+            const icons = document.getElementsByClassName("flex");
+            // const icon2 = document.getElementsByClassName("fas");
+            ele.classList.toggle("dark-mode");
+            icons.classList.toggle("light-icon");
+ });
 function replaceData(element){
     if(element.hasChildNodes()){
         element.childNodes.forEach(replaceData)

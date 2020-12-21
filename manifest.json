@@ -1,12 +1,13 @@
 {
     "manifest_version" : 2,
-    "name" : "akashchouhan16 links",
+    "name" : "QuickAccess",
     "version" : "1.1.0",
-    "description" : "A basic Chrome extension that will keep all my links at one place, and to block out all the Unschool bs on the web. :)",
+    "description" : "A basic Chrome extension that will keep all my links at one place, and to block out a spam agency's content on the web.",
     "icons": { 
-          "96": "icon.png" },
+          "96": "surf.png" },
     "browser_action": {
-              "default_icon" : "icon.png",
+              "default_icon" : "surf.png",
+              "default_title" : "QuickAccess",
               "default_popup" : "popup.html"
           },
     "permissions": ["activeTab"],

@@ -1,12 +1,20 @@
+### ![app-icon](/surf.png)
+
 # QuickAccess-Chrome-Extension
 
 This Google Chrome extension will keep all account links at one place, and will block out some bs on the web.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-**version 1.1.0**
+**version 2.0.0**
 
-![extension preview](/images/extension.png)
+- Added Two Modes : **Light** and **Dark**
+
+---
+
+> **Light Mode** ![extension preview](/images/extensionV2-light.png)
+
+> **Dark Mode** ![extension preview](/images/extensionV2-dark.png)
 
 ###### Extension UI design referred from Traversy Media.
 
@@ -25,7 +33,7 @@ This Google Chrome extension will keep all account links at one place, and will 
 
 ### Key Note
 
-- The extension also **searches** the web for any content that is related to Unschool(read bs) and blocks the text contents from getting displayed.
+- The extension also **searches** the web for content that is related to a specific spam agency and it blocks the text contents from getting displayed.
 
 - No other key features, its just a fun little project. :P
   > ![preview](/images/preview_ContentBlocker.png)
