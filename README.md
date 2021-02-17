@@ -38,6 +38,5 @@ This Google Chrome extension will keep all account links at one place, and will 
 - No other key features, its just a fun little project. :P
   > ![preview](/images/preview_ContentBlocker.png)
 
-> Note : It has only been tested with Google Chrome browser.
 
-## Feel free to contribute
+#### Feel free to contribute
