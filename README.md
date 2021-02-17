@@ -16,7 +16,7 @@ This Google Chrome extension will keep all account links at one place, and will 
 
 > **Dark Mode** ![extension preview](/images/extensionV2-dark.png)
 
-###### Extension UI design referred from Traversy Media.
+###### Extension UI referred from Traversy Media.
 
 ## How To add this extension
 
